@@ -21,7 +21,7 @@ The chatbot can answer questions like:
     > `A: Amazon ($2,450.00), Microsoft ($3,100.00)`
 
 ## Project Structure
-invoice-chatbot/
+```invoice-chatbot/
 ├── invoices/ # Directory containing sample invoice PDFs
 │   ├── amazon_inv_0012.pdf
 │   ├── microsoft_inv_0043.pdf
@@ -34,7 +34,7 @@ invoice-chatbot/
 ├── requirements.txt # Python dependencies
 └── README.md # This file
 
-
+```
 
 ## Prerequisites
 
